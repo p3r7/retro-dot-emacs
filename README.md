@@ -1,6 +1,6 @@
 # retro-dot-emacs
 
-My old Emacs 22 config, when it compiled it to run on a HP Jornada 680.
+My old Emacs 22 config, used at the time on an HP Jornada 680.
 
 ![emacs_on_hp_jornada_680](https://www.eigenbahn.com/assets/img/emacs_on_hp_jornada_680.jpg)
 
